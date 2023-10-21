@@ -1,41 +1,34 @@
-<h1 align="center">~ Hello and Welcome ~</h1>
+<h1 align="center">~ Classroom Vigilance - Drowsy Student(s) Detection in Classrooms ~</h1>
+
+###
+<p align="left">"In this project, 'Classroom Vigilance,' we aim to use technology, including computer vision and machine learning, to automatically identify students who may be disengaged or asleep during class, addressing the challenge of maintaining active student participation."</p>
+###
+
+<h2 align="left">Overview</h2>
+
+###
+<p>
+  <ul>
+    <li>This project's primary aim is to boost student engagement and learning outcomes by automatically detecting signs of drowsiness and disengagement.</li>
+    <li>Using computer vision and machine learning, the system monitors students for signs of drowsiness, triggering alerts or suggesting breaks when needed. </li>
+    <li>Regular hourly reports will provide insights for decision-making. Moreover, it promotes inclusivity by assisting instructors in identifying struggling or fatigued students and adjusting their teaching methods accordingly. </li>
+  </ul>
+</p>
+
+<h3 align="left">Alignment with SDG Goals</h3>
+<p>
+This project aligns with: 
+  <ul>
+      <li> Quality Education </li>
+      <li> Sustainable Cities and Communities </li>
+  </ul>
+</p>
+<h3 align="left">Existing System</h3>
+<p>
+Sleep Detection While Driving System:
+A sleep detection system while driving is designed to monitor a driver's attentiveness and detect signs of drowsiness or sleepiness to ensure road safety. These systems typically use various sensors, including cameras, to analyze the driver's behavior and issue alerts when signs of fatigue are detected.
+</p>
+
 
 ###
 
-<p align="left">Hey, Rishabh here!<br><br>"Crafting code and chasing my dreams, one commit at a time."</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Machine Learning and Full Stack Development<br>🎯 Goals: Contribution towards Artificial Intelligence<br>🎲 Fun fact: The earliest instance of AI - The golden robots created by the Greek god Hephaestus to help him move around.</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
-
-###
