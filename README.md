@@ -40,4 +40,4 @@
 
 ###
 
-(https://github.com/rish4522/rish4522/blob/output/github-contribution-grid-snake.svg)
+https://github.com/rish4522/rish4522/blob/output/github-contribution-grid-snake.svg
