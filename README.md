@@ -1,12 +1,8 @@
 <h1 align="center">~ Classroom Vigilance - Drowsy Student(s) Detection in Classrooms ~</h1>
 
 ###
-<p align="left">"In this project, 'Classroom Vigilance,' we aim to use technology, including computer vision and machine learning, to automatically identify students who may be disengaged or asleep during class, addressing the challenge of maintaining active student participation."</p>
-###
-
+<p align="left">In this project, 'Classroom Vigilance,' we aim to use technology, including computer vision and machine learning, to automatically identify students who may be disengaged or asleep during class, addressing the challenge of maintaining active student participation.</p>
 <h2 align="left">Overview</h2>
-
-###
 <p>
   <ul>
     <li>This project's primary aim is to boost student engagement and learning outcomes by automatically detecting signs of drowsiness and disengagement.</li>
