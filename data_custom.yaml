@@ -1,0 +1,6 @@
+train: C:\Users\risha\OneDrive\Desktop\yolo\train
+val: C:\Users\risha\OneDrive\Desktop\yolo\val
+
+nc: 1
+
+names: ["sleeping"]
