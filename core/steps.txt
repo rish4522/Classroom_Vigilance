@@ -1,0 +1,2 @@
+1. Change the views.py
+2. Change models.py
